@@ -1,0 +1,54 @@
+/Users/joaopedrodacunhacaixeta/Downloads/projeto_final/bin/Debug/net9.0/projeto_final
+/Users/joaopedrodacunhacaixeta/Downloads/projeto_final/bin/Debug/net9.0/projeto_final.deps.json
+/Users/joaopedrodacunhacaixeta/Downloads/projeto_final/bin/Debug/net9.0/projeto_final.runtimeconfig.json
+/Users/joaopedrodacunhacaixeta/Downloads/projeto_final/bin/Debug/net9.0/projeto_final.dll
+/Users/joaopedrodacunhacaixeta/Downloads/projeto_final/bin/Debug/net9.0/projeto_final.pdb
+/Users/joaopedrodacunhacaixeta/Downloads/projeto_final/obj/Debug/net9.0/projeto_final.GeneratedMSBuildEditorConfig.editorconfig
+/Users/joaopedrodacunhacaixeta/Downloads/projeto_final/obj/Debug/net9.0/projeto_final.AssemblyInfoInputs.cache
+/Users/joaopedrodacunhacaixeta/Downloads/projeto_final/obj/Debug/net9.0/projeto_final.AssemblyInfo.cs
+/Users/joaopedrodacunhacaixeta/Downloads/projeto_final/obj/Debug/net9.0/projeto_final.csproj.CoreCompileInputs.cache
+/Users/joaopedrodacunhacaixeta/Downloads/projeto_final/obj/Debug/net9.0/projeto_final.dll
+/Users/joaopedrodacunhacaixeta/Downloads/projeto_final/obj/Debug/net9.0/refint/projeto_final.dll
+/Users/joaopedrodacunhacaixeta/Downloads/projeto_final/obj/Debug/net9.0/projeto_final.pdb
+/Users/joaopedrodacunhacaixeta/Downloads/projeto_final/obj/Debug/net9.0/projeto_final.genruntimeconfig.cache
+/Users/joaopedrodacunhacaixeta/Downloads/projeto_final/obj/Debug/net9.0/ref/projeto_final.dll
+/Users/joaopedrodacunhacaixeta/Documents/UFU/6 Periodo/SCTR/projeto_final/bin/Debug/net9.0/projeto_final
+/Users/joaopedrodacunhacaixeta/Documents/UFU/6 Periodo/SCTR/projeto_final/bin/Debug/net9.0/projeto_final.deps.json
+/Users/joaopedrodacunhacaixeta/Documents/UFU/6 Periodo/SCTR/projeto_final/bin/Debug/net9.0/projeto_final.runtimeconfig.json
+/Users/joaopedrodacunhacaixeta/Documents/UFU/6 Periodo/SCTR/projeto_final/bin/Debug/net9.0/projeto_final.dll
+/Users/joaopedrodacunhacaixeta/Documents/UFU/6 Periodo/SCTR/projeto_final/bin/Debug/net9.0/projeto_final.pdb
+/Users/joaopedrodacunhacaixeta/Documents/UFU/6 Periodo/SCTR/projeto_final/obj/Debug/net9.0/projeto_final.GeneratedMSBuildEditorConfig.editorconfig
+/Users/joaopedrodacunhacaixeta/Documents/UFU/6 Periodo/SCTR/projeto_final/obj/Debug/net9.0/projeto_final.AssemblyInfoInputs.cache
+/Users/joaopedrodacunhacaixeta/Documents/UFU/6 Periodo/SCTR/projeto_final/obj/Debug/net9.0/projeto_final.AssemblyInfo.cs
+/Users/joaopedrodacunhacaixeta/Documents/UFU/6 Periodo/SCTR/projeto_final/obj/Debug/net9.0/projeto_final.csproj.CoreCompileInputs.cache
+/Users/joaopedrodacunhacaixeta/Documents/UFU/6 Periodo/SCTR/projeto_final/obj/Debug/net9.0/projeto_final.sourcelink.json
+/Users/joaopedrodacunhacaixeta/Documents/UFU/6 Periodo/SCTR/projeto_final/obj/Debug/net9.0/projeto_final.dll
+/Users/joaopedrodacunhacaixeta/Documents/UFU/6 Periodo/SCTR/projeto_final/obj/Debug/net9.0/refint/projeto_final.dll
+/Users/joaopedrodacunhacaixeta/Documents/UFU/6 Periodo/SCTR/projeto_final/obj/Debug/net9.0/projeto_final.pdb
+/Users/joaopedrodacunhacaixeta/Documents/UFU/6 Periodo/SCTR/projeto_final/obj/Debug/net9.0/projeto_final.genruntimeconfig.cache
+/Users/joaopedrodacunhacaixeta/Documents/UFU/6 Periodo/SCTR/projeto_final/obj/Debug/net9.0/ref/projeto_final.dll
+/Users/joaopedrodacunhacaixeta/Repos/Projetos/SCTR/projeto_final/bin/Debug/net9.0/projeto_final
+/Users/joaopedrodacunhacaixeta/Repos/Projetos/SCTR/projeto_final/bin/Debug/net9.0/projeto_final.deps.json
+/Users/joaopedrodacunhacaixeta/Repos/Projetos/SCTR/projeto_final/bin/Debug/net9.0/projeto_final.runtimeconfig.json
+/Users/joaopedrodacunhacaixeta/Repos/Projetos/SCTR/projeto_final/bin/Debug/net9.0/projeto_final.dll
+/Users/joaopedrodacunhacaixeta/Repos/Projetos/SCTR/projeto_final/bin/Debug/net9.0/projeto_final.pdb
+/Users/joaopedrodacunhacaixeta/Repos/Projetos/SCTR/projeto_final/obj/Debug/net9.0/projeto_final.GeneratedMSBuildEditorConfig.editorconfig
+/Users/joaopedrodacunhacaixeta/Repos/Projetos/SCTR/projeto_final/obj/Debug/net9.0/projeto_final.AssemblyInfoInputs.cache
+/Users/joaopedrodacunhacaixeta/Repos/Projetos/SCTR/projeto_final/obj/Debug/net9.0/projeto_final.AssemblyInfo.cs
+/Users/joaopedrodacunhacaixeta/Repos/Projetos/SCTR/projeto_final/obj/Debug/net9.0/projeto_final.csproj.CoreCompileInputs.cache
+/Users/joaopedrodacunhacaixeta/Repos/Projetos/SCTR/projeto_final/obj/Debug/net9.0/projeto_final.sourcelink.json
+/Users/joaopedrodacunhacaixeta/Repos/Projetos/SCTR/projeto_final/obj/Debug/net9.0/projeto_final.dll
+/Users/joaopedrodacunhacaixeta/Repos/Projetos/SCTR/projeto_final/obj/Debug/net9.0/refint/projeto_final.dll
+/Users/joaopedrodacunhacaixeta/Repos/Projetos/SCTR/projeto_final/obj/Debug/net9.0/projeto_final.pdb
+/Users/joaopedrodacunhacaixeta/Repos/Projetos/SCTR/projeto_final/obj/Debug/net9.0/projeto_final.genruntimeconfig.cache
+/Users/joaopedrodacunhacaixeta/Repos/Projetos/SCTR/projeto_final/obj/Debug/net9.0/ref/projeto_final.dll
+/Users/joaopedrodacunhacaixeta/Repos/Projetos/SCTR/projeto_final/bin/Debug/net9.0/NStack.dll
+/Users/joaopedrodacunhacaixeta/Repos/Projetos/SCTR/projeto_final/bin/Debug/net9.0/System.CodeDom.dll
+/Users/joaopedrodacunhacaixeta/Repos/Projetos/SCTR/projeto_final/bin/Debug/net9.0/System.Management.dll
+/Users/joaopedrodacunhacaixeta/Repos/Projetos/SCTR/projeto_final/bin/Debug/net9.0/Terminal.Gui.dll
+/Users/joaopedrodacunhacaixeta/Repos/Projetos/SCTR/projeto_final/bin/Debug/net9.0/fr-FR/Terminal.Gui.resources.dll
+/Users/joaopedrodacunhacaixeta/Repos/Projetos/SCTR/projeto_final/bin/Debug/net9.0/ja-JP/Terminal.Gui.resources.dll
+/Users/joaopedrodacunhacaixeta/Repos/Projetos/SCTR/projeto_final/bin/Debug/net9.0/pt-PT/Terminal.Gui.resources.dll
+/Users/joaopedrodacunhacaixeta/Repos/Projetos/SCTR/projeto_final/bin/Debug/net9.0/runtimes/win/lib/net9.0/System.Management.dll
+/Users/joaopedrodacunhacaixeta/Repos/Projetos/SCTR/projeto_final/obj/Debug/net9.0/projeto_final.csproj.AssemblyReference.cache
+/Users/joaopedrodacunhacaixeta/Repos/Projetos/SCTR/projeto_final/obj/Debug/net9.0/projeto_.231C2DC4.Up2Date

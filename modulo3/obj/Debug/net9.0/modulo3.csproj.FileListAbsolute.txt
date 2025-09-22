@@ -1,0 +1,15 @@
+/Users/joaopedrodacunhacaixeta/Repos/Projetos/SCTR/modulo3/bin/Debug/net9.0/modulo3
+/Users/joaopedrodacunhacaixeta/Repos/Projetos/SCTR/modulo3/bin/Debug/net9.0/modulo3.deps.json
+/Users/joaopedrodacunhacaixeta/Repos/Projetos/SCTR/modulo3/bin/Debug/net9.0/modulo3.runtimeconfig.json
+/Users/joaopedrodacunhacaixeta/Repos/Projetos/SCTR/modulo3/bin/Debug/net9.0/modulo3.dll
+/Users/joaopedrodacunhacaixeta/Repos/Projetos/SCTR/modulo3/bin/Debug/net9.0/modulo3.pdb
+/Users/joaopedrodacunhacaixeta/Repos/Projetos/SCTR/modulo3/obj/Debug/net9.0/modulo3.GeneratedMSBuildEditorConfig.editorconfig
+/Users/joaopedrodacunhacaixeta/Repos/Projetos/SCTR/modulo3/obj/Debug/net9.0/modulo3.AssemblyInfoInputs.cache
+/Users/joaopedrodacunhacaixeta/Repos/Projetos/SCTR/modulo3/obj/Debug/net9.0/modulo3.AssemblyInfo.cs
+/Users/joaopedrodacunhacaixeta/Repos/Projetos/SCTR/modulo3/obj/Debug/net9.0/modulo3.csproj.CoreCompileInputs.cache
+/Users/joaopedrodacunhacaixeta/Repos/Projetos/SCTR/modulo3/obj/Debug/net9.0/modulo3.sourcelink.json
+/Users/joaopedrodacunhacaixeta/Repos/Projetos/SCTR/modulo3/obj/Debug/net9.0/modulo3.dll
+/Users/joaopedrodacunhacaixeta/Repos/Projetos/SCTR/modulo3/obj/Debug/net9.0/refint/modulo3.dll
+/Users/joaopedrodacunhacaixeta/Repos/Projetos/SCTR/modulo3/obj/Debug/net9.0/modulo3.pdb
+/Users/joaopedrodacunhacaixeta/Repos/Projetos/SCTR/modulo3/obj/Debug/net9.0/modulo3.genruntimeconfig.cache
+/Users/joaopedrodacunhacaixeta/Repos/Projetos/SCTR/modulo3/obj/Debug/net9.0/ref/modulo3.dll

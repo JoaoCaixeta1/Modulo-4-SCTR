@@ -1,0 +1,45 @@
+/Users/joaopedrodacunhacaixeta/Documents/UFU/6 Periodo/SCTR/pratica2.0/bin/Debug/net9.0/pratica2.0
+/Users/joaopedrodacunhacaixeta/Documents/UFU/6 Periodo/SCTR/pratica2.0/bin/Debug/net9.0/pratica2.0.deps.json
+/Users/joaopedrodacunhacaixeta/Documents/UFU/6 Periodo/SCTR/pratica2.0/bin/Debug/net9.0/pratica2.0.runtimeconfig.json
+/Users/joaopedrodacunhacaixeta/Documents/UFU/6 Periodo/SCTR/pratica2.0/bin/Debug/net9.0/pratica2.0.dll
+/Users/joaopedrodacunhacaixeta/Documents/UFU/6 Periodo/SCTR/pratica2.0/bin/Debug/net9.0/pratica2.0.pdb
+/Users/joaopedrodacunhacaixeta/Documents/UFU/6 Periodo/SCTR/pratica2.0/obj/Debug/net9.0/pratica2.0.GeneratedMSBuildEditorConfig.editorconfig
+/Users/joaopedrodacunhacaixeta/Documents/UFU/6 Periodo/SCTR/pratica2.0/obj/Debug/net9.0/pratica2.0.AssemblyInfoInputs.cache
+/Users/joaopedrodacunhacaixeta/Documents/UFU/6 Periodo/SCTR/pratica2.0/obj/Debug/net9.0/pratica2.0.AssemblyInfo.cs
+/Users/joaopedrodacunhacaixeta/Documents/UFU/6 Periodo/SCTR/pratica2.0/obj/Debug/net9.0/pratica2.0.csproj.CoreCompileInputs.cache
+/Users/joaopedrodacunhacaixeta/Documents/UFU/6 Periodo/SCTR/pratica2.0/obj/Debug/net9.0/pratica2.0.sourcelink.json
+/Users/joaopedrodacunhacaixeta/Documents/UFU/6 Periodo/SCTR/pratica2.0/obj/Debug/net9.0/pratica2.0.dll
+/Users/joaopedrodacunhacaixeta/Documents/UFU/6 Periodo/SCTR/pratica2.0/obj/Debug/net9.0/refint/pratica2.0.dll
+/Users/joaopedrodacunhacaixeta/Documents/UFU/6 Periodo/SCTR/pratica2.0/obj/Debug/net9.0/pratica2.0.pdb
+/Users/joaopedrodacunhacaixeta/Documents/UFU/6 Periodo/SCTR/pratica2.0/obj/Debug/net9.0/pratica2.0.genruntimeconfig.cache
+/Users/joaopedrodacunhacaixeta/Documents/UFU/6 Periodo/SCTR/pratica2.0/obj/Debug/net9.0/ref/pratica2.0.dll
+/Users/joaopedrodacunhacaixeta/MeusProjetos/pratica2.0/bin/Debug/net9.0/pratica2.0
+/Users/joaopedrodacunhacaixeta/MeusProjetos/pratica2.0/bin/Debug/net9.0/pratica2.0.deps.json
+/Users/joaopedrodacunhacaixeta/MeusProjetos/pratica2.0/bin/Debug/net9.0/pratica2.0.runtimeconfig.json
+/Users/joaopedrodacunhacaixeta/MeusProjetos/pratica2.0/bin/Debug/net9.0/pratica2.0.dll
+/Users/joaopedrodacunhacaixeta/MeusProjetos/pratica2.0/bin/Debug/net9.0/pratica2.0.pdb
+/Users/joaopedrodacunhacaixeta/MeusProjetos/pratica2.0/obj/Debug/net9.0/pratica2.0.GeneratedMSBuildEditorConfig.editorconfig
+/Users/joaopedrodacunhacaixeta/MeusProjetos/pratica2.0/obj/Debug/net9.0/pratica2.0.AssemblyInfoInputs.cache
+/Users/joaopedrodacunhacaixeta/MeusProjetos/pratica2.0/obj/Debug/net9.0/pratica2.0.AssemblyInfo.cs
+/Users/joaopedrodacunhacaixeta/MeusProjetos/pratica2.0/obj/Debug/net9.0/pratica2.0.csproj.CoreCompileInputs.cache
+/Users/joaopedrodacunhacaixeta/MeusProjetos/pratica2.0/obj/Debug/net9.0/pratica2.0.sourcelink.json
+/Users/joaopedrodacunhacaixeta/MeusProjetos/pratica2.0/obj/Debug/net9.0/pratica2.0.dll
+/Users/joaopedrodacunhacaixeta/MeusProjetos/pratica2.0/obj/Debug/net9.0/refint/pratica2.0.dll
+/Users/joaopedrodacunhacaixeta/MeusProjetos/pratica2.0/obj/Debug/net9.0/pratica2.0.pdb
+/Users/joaopedrodacunhacaixeta/MeusProjetos/pratica2.0/obj/Debug/net9.0/pratica2.0.genruntimeconfig.cache
+/Users/joaopedrodacunhacaixeta/MeusProjetos/pratica2.0/obj/Debug/net9.0/ref/pratica2.0.dll
+/Users/joaopedrodacunhacaixeta/Repos/Projetos/SCTR/pratica2.0/bin/Debug/net9.0/pratica2.0
+/Users/joaopedrodacunhacaixeta/Repos/Projetos/SCTR/pratica2.0/bin/Debug/net9.0/pratica2.0.deps.json
+/Users/joaopedrodacunhacaixeta/Repos/Projetos/SCTR/pratica2.0/bin/Debug/net9.0/pratica2.0.runtimeconfig.json
+/Users/joaopedrodacunhacaixeta/Repos/Projetos/SCTR/pratica2.0/bin/Debug/net9.0/pratica2.0.dll
+/Users/joaopedrodacunhacaixeta/Repos/Projetos/SCTR/pratica2.0/bin/Debug/net9.0/pratica2.0.pdb
+/Users/joaopedrodacunhacaixeta/Repos/Projetos/SCTR/pratica2.0/obj/Debug/net9.0/pratica2.0.GeneratedMSBuildEditorConfig.editorconfig
+/Users/joaopedrodacunhacaixeta/Repos/Projetos/SCTR/pratica2.0/obj/Debug/net9.0/pratica2.0.AssemblyInfoInputs.cache
+/Users/joaopedrodacunhacaixeta/Repos/Projetos/SCTR/pratica2.0/obj/Debug/net9.0/pratica2.0.AssemblyInfo.cs
+/Users/joaopedrodacunhacaixeta/Repos/Projetos/SCTR/pratica2.0/obj/Debug/net9.0/pratica2.0.csproj.CoreCompileInputs.cache
+/Users/joaopedrodacunhacaixeta/Repos/Projetos/SCTR/pratica2.0/obj/Debug/net9.0/pratica2.0.sourcelink.json
+/Users/joaopedrodacunhacaixeta/Repos/Projetos/SCTR/pratica2.0/obj/Debug/net9.0/pratica2.0.dll
+/Users/joaopedrodacunhacaixeta/Repos/Projetos/SCTR/pratica2.0/obj/Debug/net9.0/refint/pratica2.0.dll
+/Users/joaopedrodacunhacaixeta/Repos/Projetos/SCTR/pratica2.0/obj/Debug/net9.0/pratica2.0.pdb
+/Users/joaopedrodacunhacaixeta/Repos/Projetos/SCTR/pratica2.0/obj/Debug/net9.0/pratica2.0.genruntimeconfig.cache
+/Users/joaopedrodacunhacaixeta/Repos/Projetos/SCTR/pratica2.0/obj/Debug/net9.0/ref/pratica2.0.dll
