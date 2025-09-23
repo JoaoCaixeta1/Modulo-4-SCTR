@@ -1,26 +1,14 @@
 [
   {
-    "Nome": "Curto-circuito Fase A",
-    "Parametro": "Ia",
-    "Operador": "\u003E",
-    "Valor": 250
-  },
-  {
     "Nome": "Queda de Tensao",
     "Parametro": "Va",
     "Operador": "\u003C",
-    "Valor": 200
+    "Valor": 220
   },
   {
     "Nome": "Frequencia Anormal",
     "Parametro": "Freq",
     "Operador": "\u003C",
-    "Valor": 59
-  },
-  {
-    "Nome": "Superaquecimento",
-    "Parametro": "Temp",
-    "Operador": "\u003E",
-    "Valor": 90
+    "Valor": 60
   }
 ]

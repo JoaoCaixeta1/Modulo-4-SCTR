@@ -25,7 +25,7 @@ public class Modulo4_Final
         public double Valor { get; set; }
     }
 
-    /// Representa o relatório periódico enviado para o Módulo 3.
+    /// Representa o relatório enviado para o Módulo 3.
     public class RelatorioEventos
     {
         public DateTime Timestamp { get; set; }
@@ -51,8 +51,7 @@ public class Modulo4_Final
     // Timer que dispara o envio de relatórios a cada 500ms.
     private static Timer? _senderTimer;
 
-    // --- Variáveis para detecção de deadline miss ---
-    // Sinalizador para controlar se a tarefa de envio de relatório já está em execução.
+    // Variáveis para detecção de deadline miss. Sinalizador para controlar se a tarefa de envio de relatório já está em execução.
     private static bool _isSendingReport = false;
     // Contador de deadlines perdidas.
     private static int _relatorioDeadlinesPerdidos = 0;
@@ -72,9 +71,7 @@ public class Modulo4_Final
 
     #region Lógica de Persistência
 
-    /// <summary>
     /// Carrega as regras do arquivo 'regras.json' ao iniciar a aplicação.
-    /// </summary>
     private static void CarregarRegras()
     {
         try
@@ -92,9 +89,7 @@ public class Modulo4_Final
         }
     }
 
-    /// <summary>
     /// Salva a lista de regras atual no arquivo 'regras.json'.
-    /// </summary>
     private static void SalvarRegras()
     {
         try
@@ -113,7 +108,7 @@ public class Modulo4_Final
 
     #region Lógica Principal 
 
-    /// O "coração" do sistema. Processa um pacote de dados recebido, aplicando todas as regras ativas e registrando eventos se as condições forem atendidas.
+    /// Processa um pacote de dados recebido, aplicando todas as regras ativas e registrando eventos se as condições forem atendidas.
     private static void AplicarRegras(Dictionary<string, JsonElement> dadosPacote)
     {
         // Inicia um cronômetro para medir a latência do processamento.
@@ -152,8 +147,7 @@ public class Modulo4_Final
 
                     string logMessage = $"{DateTime.Now:yyyy-MM-dd HH:mm:ss.fff} | EVENTO: Regra '{regra.Nome}' acionada. ({regra.Parametro}: {valorRecebido:F4} {regra.Operador} {regra.Valor}) [Proc: {stopwatch.Elapsed.TotalMilliseconds:F4} ms]\n";
 
-                    // CRÍTICO: Qualquer atualização da UI a partir de uma thread de background
-                    // DEVE ser feita dentro de 'Application.MainLoop.Invoke' para evitar crashes.
+                    // CRÍTICO: Qualquer atualização da UI a partir de uma thread de background DEVE ser feita dentro de 'Application.MainLoop.Invoke' para evitar crashes.
                     Application.MainLoop.Invoke(() => {
                         if (_logTextView != null)
                         {
@@ -247,8 +241,7 @@ public class Modulo4_Final
 
         try
         {
-            // Linha de teste para forçar um deadline miss (600ms > 500ms).
-            // Thread.Sleep(600); 
+            // Linha de teste para forçar um deadline perdido(600ms > 500ms).
 
             using var udpClient = new UdpClient();
             var broadcastEndpoint = new IPEndPoint(IPAddress.Broadcast, 12000);
@@ -282,7 +275,6 @@ public class Modulo4_Final
     #region Diálogos da UI
 
     /// Cria e exibe o diálogo para adicionar uma nova regra.
-
     private static void AdicionarNovaRegraDialog()
     {
         var dialog = new Dialog("Adicionar Nova Regra", 60, 10);
@@ -330,7 +322,6 @@ public class Modulo4_Final
     }
 
     /// Cria e exibe o diálogo para editar uma regra selecionada.
-
     private static void EditarRegraSelecionadaDialog()
     {
         if (_regrasListView == null) return;
@@ -345,7 +336,7 @@ public class Modulo4_Final
         var regraParaEditar = _regrasAtivas[selectedIndex];
         var dialog = new Dialog("Editar Regra", 60, 10);
         
-        // Pré-popula os campos com os dados da regra existente.
+        // Pré-ocupa os campos com os dados da regra existente.
         var lblNome = new Label("Nome:") { X = 1, Y = 1 };
         var txtNome = new TextField(regraParaEditar.Nome) { X = 15, Y = 1, Width = 40 };
         var lblParam = new Label("Parâmetro:") { X = 1, Y = 2 };
@@ -388,7 +379,6 @@ public class Modulo4_Final
     }
 
     /// Remove a regra atualmente selecionada na lista, após confirmação.
-
     private static void RemoverRegraSelecionada()
     {
         if (_regrasListView == null) return;
@@ -420,8 +410,7 @@ public class Modulo4_Final
 
     #region Ciclo de Vida da Aplicação
 
-    /// Inicia os componentes de backend (threads de rede e timers)
-    /// após a interface gráfica ter sido carregada.
+    /// Inicia os componentes de backend (threads de rede e timers) após a interface gráfica ter sido carregada.
     private static void IniciarBackend()
     {
         CarregarRegras();
@@ -435,16 +424,14 @@ public class Modulo4_Final
         _senderTimer = new Timer(SenderRelatorio, null, 1000, 500);
     }
 
-    /// <summary>
     /// Ponto de entrada principal da aplicação.
-    /// </summary>
     public static void Main(string[] args)
     {
         // Inicializa a aplicação de console.
         Application.Init();
         var top = Application.Top;
 
-        // --- Montagem da Interface Gráfica (TUI) ---
+        // Montagem da Interface Gráfica (TUI)
         var menu = new MenuBar(new MenuBarItem[] {
             new MenuBarItem("_Arquivo", new MenuItem [] {
                 new MenuItem ("_Sair", "", () => Application.RequestStop(), null, null, Key.CtrlMask | Key.Q)
@@ -463,7 +450,6 @@ public class Modulo4_Final
 
         var logWindow = new FrameView("Log de Eventos") { X = Pos.Right(regrasWindow), Y = 0, Width = Dim.Fill(), Height = Dim.Fill() };
         
-        // --- ALTERAÇÃO AQUI: Adicionada a propriedade WordWrap = true ---
         _logTextView = new TextView() { 
             Width = Dim.Fill(), 
             Height = Dim.Fill(), 
@@ -482,8 +468,7 @@ public class Modulo4_Final
         mainWindow.Add(regrasWindow, logWindow);
         top.Add(menu, mainWindow, _statusBar);
 
-        // Associa o método IniciarBackend ao evento 'Loaded', garantindo que o backend
-        // só comece a rodar depois que a UI estiver pronta.
+        // Associa o método IniciarBackend ao evento 'Loaded', garantindo que o backend só comece a rodar depois que a UI estiver pronta.
         top.Loaded += IniciarBackend;
 
         // Inicia o loop principal da aplicação, que processa eventos e desenha a tela.
